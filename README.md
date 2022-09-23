@@ -1,2 +1,0 @@
-# nami-bot
-Bot
